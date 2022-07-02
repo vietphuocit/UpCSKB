@@ -1,3 +1,3 @@
-trumnamec7|phuoctk|Green 1|13|96 - Cao nguyên|
-trumnamec8|phuoctk|Green 1|14|96 - Cao nguyên|
-trumnamec9|phuoctk|Green 1|15|96 - Cao nguyên|
+trumnamec1|phuoctk|Green 1|16|96 - Cao nguyên|
+trumnamec2|phuoctk|Green 1|17|96 - Cao nguyên|
+trumnamec3|phuoctk|Green 1|18|96 - Cao nguyên|
